@@ -1,5 +1,4 @@
 # Hello-World
 This is a start into my production into Github, consistancy, and coding
 
-
-Some things I need to learn: Base, commit, pull requests, projects, issues, testing
+In the README.md document, I will layout how things work. I will put my goals, where the troubles are, and how to navigate through the sheet. 
